@@ -5,7 +5,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Colledev&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=CCCCCC&text_color=CCCCCC&bg_color=333333" alt="Gabriel Colle github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=CCCCCC&text_color=CCCCCC&bg_color=333333" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colledev&layout=compact&hide_border=true&title_color=CCCCCC&text_color=CCCCCC&bg_color=333333" />
 </div>
  
 <div style="margin-top: 20px; margin-bottom: 20px;">
