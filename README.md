@@ -8,14 +8,23 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=CCCCCC&text_color=CCCCCC&bg_color=333333" />
 </div>
  
+<div style="margin-top: 20px; margin-bottom: 20px;">
+  <hr style="border: none; border-top: 2px solid #AAAAAA; margin: 0; height: 0;">
+</div>
 
-### Main skills:
+<h3 style="text-align: center;">Main skills:</h3>
+
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)
  
-### Tools:
+<div style="margin-top: 20px; margin-bottom: 20px;">
+  <hr style="border: none; border-top: 2px solid #AAAAAA; margin: 0; height: 0;">
+</div>
+
+<h3 style="text-align: center;">Tools:</h3>
+
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
 &nbsp;&nbsp;
 [![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)](https://git-scm.com/)
@@ -24,8 +33,12 @@
 &nbsp;&nbsp;
 [![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)](https://www.microsoft.com/en-us/windows/)
 
+<div style="margin-top: 20px; margin-bottom: 20px;">
+  <hr style="border: none; border-top: 2px solid #AAAAAA; margin: 0; height: 0;">
+</div>
 
-### Other Knowledge:
+<h3 style="text-align: center;">Other Knowledge:</h3>
+
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; &nbsp;
@@ -33,10 +46,14 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 
+<div style="margin-top: 20px; margin-bottom: 20px;">
+  <hr style="border: none; border-top: 2px solid #AAAAAA; margin: 0; height: 0;">
+</div>
+
 <div align="center"> 
   <a href="mailto:gabrielcolle3@hotmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gabriel-colle-169134259/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
