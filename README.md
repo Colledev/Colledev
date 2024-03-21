@@ -1,16 +1,46 @@
-## Olá! Eu sou o Gabriel Colle 🖐️
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AAAAAA&height=200&section=header"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colledev&hide_progress=true)
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=50&center=true&vCenter=true&width=1000&lines=Hello!,+My+Name+is+Gabriel+Colle;I'm+a+Mechanical+Engineer;I+am+from+Maringá,+PR;I+am+doing+a+postgraduate;in+Software+Architecture;Be+Welcome!+:%29)](/https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Colledev&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=CCCCCC&text_color=CCCCCC&bg_color=333333" alt="Matheus Maia Alvarez github stats" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=CCCCCC&text_color=CCCCCC&bg_color=333333" />
+</div>
+ 
+
+### Main skills:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)
+ 
+### Tools:
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
+&nbsp;&nbsp;
+[![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)](https://git-scm.com/)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)](https://github.com/)
+&nbsp;&nbsp;
+[![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)](https://www.microsoft.com/en-us/windows/)
 
 
-## Tecnologias que eu uso no meu dia
+### Other Knowledge:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;&nbsp;
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; &nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 
-<div style="display: inline_block">
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div><br/>
+<div align="center"> 
+  <a href="mailto:gabrielcolle3@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-colle-169134259/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AAAAAA&height=200&section=footer"/>
+
