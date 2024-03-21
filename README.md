@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=45&center=true&vCenter=true&width=1000&lines=Hello!,+My+Name+is+Gabriel+Colle;I'm+a+Mechanical+Engineer;I+am+from+Maringá,+PR;I+am+doing+a+postgraduate;in+Software+Architecture;Be+Welcome!+:%29)](/https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Colledev&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=CCCCCC&text_color=CCCCCC&bg_color=333333" alt="Matheus Maia Alvarez github stats" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Colledev&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=CCCCCC&text_color=CCCCCC&bg_color=333333" alt="Gabriel Colle github stats" />;
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=CCCCCC&text_color=CCCCCC&bg_color=333333" />
 </div>
  
