@@ -56,8 +56,12 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gabriel-colle-169134259/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/5544998331350" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 </div>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AAAAAA&height=200&section=footer"/>
