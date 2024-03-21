@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Gabriel Colle 🖐️
 
-![Colledev GitHub stats](https://github-readme-stats.vercel.app/api?username=Colledev&show_icons=true&theme=dracula&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colledev&hide_progress=true)
+
 
 ## Tecnologias que eu uso no meu dia
 
