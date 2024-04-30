@@ -43,8 +43,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;&nbsp;
 [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css&labelColor=0D1117)](https://tailwindcss.com/)
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; &nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=007396&labelColor=0D1117)
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;&nbsp;
 
 <div style="margin-top: 20px; margin-bottom: 20px;">
   <hr style="border: none; border-top: 2px solid #AAAAAA; margin: 0; height: 0;">
