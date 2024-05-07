@@ -50,6 +50,18 @@
   <hr style="border: none; border-top: 2px solid #AAAAAA; margin: 0; height: 0;">
 </div>
 
+<h3 style="text-align: center;">Code Wars:</h3>
+
+<div align="center">
+  
+![Codewars](https://www.codewars.com/users/Colledev/badges/large)
+
+</div>
+
+<div style="margin-top: 20px; margin-bottom: 20px;">
+  <hr style="border: none; border-top: 2px solid #AAAAAA; margin: 0; height: 0;">
+</div>
+
 <div align="center"> 
   <a href="mailto:gabrielcolle3@hotmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
